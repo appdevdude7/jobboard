@@ -1,0 +1,6 @@
+.job-card{
+    border: 1px solid salmon;
+    margin: 1rem 10rem;
+    padding: 1rem;
+    display: flex;
+}
